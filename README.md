@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**ethanctbs/ethanctbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm I'm [Ethan](https://github.com/ethanctbs), a Software Engineering student based in **Marseille, France**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build **AI-driven solutions** and explore the possibilities of **Machine Learning**. 
+If a manual task can be automated with **Python**, chances are I'll build a script for it.
+
+My main tech stack is **Python**, focused on **Artificial Intelligence** and **Data Science**. I do all my heavy lifting on **Ubuntu Linux** using **VS Code**.
+
+I'm currently leveling up at **Epitech** (Class of 2028) and deep-diving into **Neural Networks**.
+
+If you're working on an interesting AI project or just want to talk about the latest tech trends, feel free to reach out!
+
+###  Fun Facts:
+
+* I spend way too much time optimizing my **Ubuntu** terminal.
+* I'm a **Python** enthusiast who believes everything can be a script.
+* I'm powered by **code** and probably too much coffee.
+* **Hobbies**: AI Research, Linux ricing, and building things.
+
