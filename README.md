@@ -19,17 +19,6 @@ If you're working on an interesting AI project or just want to talk about the la
 * I'm powered by **code** and probably too much coffee.
 * **Hobbies**: AI Research, Linux ricing, and building things.
 
----
-
-### 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanctbs&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Ethan" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanctbs&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
-### 🔥 Ma Progression
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanctbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
