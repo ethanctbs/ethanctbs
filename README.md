@@ -19,3 +19,17 @@ If you're working on an interesting AI project or just want to talk about the la
 * I'm powered by **code** and probably too much coffee.
 * **Hobbies**: AI Research, Linux ricing, and building things.
 
+---
+
+### 📊 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanctbs&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Ethan" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanctbs&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+</p>
+
+### 🔥 Ma Progression
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanctbs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
